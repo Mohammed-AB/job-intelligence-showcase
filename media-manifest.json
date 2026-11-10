@@ -1,0 +1,16 @@
+{
+  "project": "Job Intelligence",
+  "reviewed": "2026-11-10",
+  "assets": [
+    {
+      "path": "media/overview.png",
+      "bytes": 179846,
+      "sha256": "5a2c049d52202c0d7e8d0accc274f4cf33a235905f62cf48815b9c10f6b84ae3"
+    },
+    {
+      "path": "media/walkthrough.mp4",
+      "bytes": 2928042,
+      "sha256": "ed377efbe2c1498ccbf5a8c7cdbb36cd59e73765fa36f5d8768577d083dbc92f"
+    }
+  ]
+}
